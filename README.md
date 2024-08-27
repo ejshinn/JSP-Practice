@@ -1,4 +1,4 @@
-# JSP-Practice
+# JSP_Practice
 
 ### 1. study01(JSP 기본)
 * page 지시어(import, 예외처리, try~catch, errorPage, isErrorPage)
